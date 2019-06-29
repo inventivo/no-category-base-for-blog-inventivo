@@ -1,2 +1,2 @@
 # no-category-base-for-blog-inventivo
-Removes '/category' from your category permalinks.
+Removes '/category' from your category permalinks. Works with WPML.
