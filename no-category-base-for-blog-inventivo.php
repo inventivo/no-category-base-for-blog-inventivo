@@ -3,7 +3,7 @@
 Contributors: inventivogermany
 Plugin Name:  No category base for blog | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
-Description:  Removes '/category' from your category permalinks. WPML compatible.
+Description:  Removes '/category' from your category permalinks. Works with WPML.
 Version:      1.0.0
 Author:       Nils Harder
 Author URI:   https://www.inventivo.de
