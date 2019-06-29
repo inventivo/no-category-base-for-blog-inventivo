@@ -1,0 +1,14 @@
+{
+  "name": "inventivo/no-category-base-for-blog-inventivo",
+  "description": "Removes '/category' from your category permalinks.",
+  "homepage": "https://www.inventivo.de",
+  "license": "Commercial",
+  "authors": [
+    {
+      "name": "Nils Harder",
+      "email": "nils.harder@inventivo.de",
+      "homepage": "https://www.inventivo.de"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
